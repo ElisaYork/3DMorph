@@ -7,7 +7,7 @@ Written by Elisa M York
 Packaged May 2018
 
 This package comes with no warranty of any kind. Permission is
-granted to use the material for noncommercial and research purposes. Please cite [paper]. 
+granted to use the material for noncommercial and research purposes. Please cite "3DMorph automatic analysis of microglial morphology in 3 dimensions from ex vivo and in vivo imaging". 
 
 ------------------------------------------------------------
 
